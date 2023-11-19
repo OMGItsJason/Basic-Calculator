@@ -1,0 +1,23 @@
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.exe
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\CalculatorPrivateAssembly.dll
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\CalculatorPrivateAssembly.pdb
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.csproj.AssemblyReference.cache
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator_MarkupCompile.cache
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.g.resources
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.AssemblyInfoInputs.cache
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.AssemblyInfo.cs
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.csproj.CopyComplete
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.dll
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\refint\Basic Calculator.dll
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.pdb
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.deps.json
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.runtimeconfig.json
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.dll
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\bin\Debug\net7.0-windows\Basic Calculator.pdb
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\Basic Calculator.genruntimeconfig.cache
+C:\Users\Jason User\Documents\Basic Calculator\Basic Calculator\obj\Debug\net7.0-windows\ref\Basic Calculator.dll

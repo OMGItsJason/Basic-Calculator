@@ -1,0 +1,11 @@
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\bin\Debug\net7.0\CalculatorPrivateAssembly.deps.json
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\bin\Debug\net7.0\CalculatorPrivateAssembly.dll
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\bin\Debug\net7.0\CalculatorPrivateAssembly.pdb
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\CalculatorPrivateAssembly.dll
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\refint\CalculatorPrivateAssembly.dll
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\CalculatorPrivateAssembly.pdb
+C:\Users\Jason User\Documents\Basic Calculator\CalculatorPrivateAssembly\obj\Debug\net7.0\ref\CalculatorPrivateAssembly.dll
